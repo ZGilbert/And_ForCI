@@ -1,5 +1,5 @@
 language: objective-c
-xcode_project: And_ForCI/And_ForCI.xcodeproj 
+xcode_project: And_ForCI.xcodeproj 
 xcode_scheme: And_ForCI
 osx_image: xcode10
 
